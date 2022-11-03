@@ -1,11 +1,9 @@
-#ifndef "MAIN_H"
-#define "MAIN_H"
+#ifndef MAIN_H 
+#define MAIN_H
 
-/**
- * file: main.h
- * auth: me
- * desc: header file containing prototypes
- */
+#include <stdio.h>
+#include <stdlib.h>
+
 
 int _putchar(char c);
 void _puts_recursion(char *s);
