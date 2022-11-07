@@ -13,7 +13,7 @@
 int main(int argc, char *argv[])
 {
 	/*Declearing variables*/
-	int cout = 0;
+	int count = 0;
 
 	if (argc > 0)
 	{
